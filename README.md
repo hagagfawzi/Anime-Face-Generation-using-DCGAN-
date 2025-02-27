@@ -1,1 +1,2 @@
-# Anime-Face-Generation-using-DCGAN-
+Anime Face Generation using DCGAN (Deep Learning, TensorFlow)
+Developed a Deep Convolutional GAN (DCGAN) using TensorFlow to generate high-quality anime faces from a dataset of 21,551 images. Leveraged convolutional layers, batch normalization, and LeakyReLU activations for stable training. Applied image preprocessing, data augmentation, and hyperparameter tuning to improve generation quality. 🚀🎨# Anime-Face-Generation-using-DCGAN-
